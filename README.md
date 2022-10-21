@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ks-vandana
+- 👀 I’m interested in Digital VLSI design, RISC-V and EDA
+- 🌱 I’m currently learning coding for RISC-V processor, verification of digital systems and I am exploring many tools that help in automation of systems
+- 💞️ I’m looking to collaborate on RISC-V projects and verification
+- 📫 You can reach me by mailing to me at vandanaks1405@gmai.com
