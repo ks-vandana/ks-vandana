@@ -1,14 +1,14 @@
 <h1 align="center">Hey <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Vandana</h1>
 
 <div align='center'>
-Hello peeps, welcome to my github profile. Feel free to burst with ideas only idea-only-website.
+Hello guys, welcome to my github profile.
 </div>
 
 <br/>
 
 ## 🚀 About Me
 
-I'm a MERN stack developer and problem solver.
+I'm a VLSI enthusiast and problem solver.
 
 👀 I’m interested in Digital VLSI design, verification, RISC-V and EDA
 
@@ -50,9 +50,9 @@ I'm a MERN stack developer and problem solver.
 
 <div align='center'>
 
-![my Activity Graph](https://activity-graph.herokuapp.com/graph?username=thecoderash&theme=react-dark&hide_border=true&area=true)
+![my Activity Graph](https://activity-graph.herokuapp.com/graph?username=ks-vanadana&theme=react-dark&hide_border=true&area=true)
 
 <br />
-![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecoderash&show_icons=true&theme=github_dark)
+<!-- ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecoderash&show_icons=true&theme=github_dark) -->
 
 </div>
