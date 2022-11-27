@@ -8,13 +8,15 @@ Hello guys, welcome to my github profile.
 
 ## 🚀 About Me
 
-I'm a VLSI enthusiast.
+I'm a VLSI enthusiast and an ECE Student at PES University.
 
 👀 I’m interested in Digital VLSI design, verification, RISC-V and EDA
 
 🌱 I’m currently learning coding for RISC-V processor, verification of digital systems and I am exploring many tools that help in automation of systems
 
-💞️ I’m looking to collaborate on RISC-V projects and verification
+💞️ I’m looking to collaborate on RISC-V projects, Verification and Work on OPEN Lane.
+
+📚 Learning all about VLSI
 
 📫 Reach me at vandanaks1405@gmai.com
 
