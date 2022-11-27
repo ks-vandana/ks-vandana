@@ -8,11 +8,11 @@ Hello guys, welcome to my github profile.
 
 ## 🚀 About Me
 
-I'm a VLSI enthusiast and problem solver.
+I'm a VLSI enthusiast.
 
 👀 I’m interested in Digital VLSI design, verification, RISC-V and EDA
 
-- 🌱 I’m currently learning coding for RISC-V processor, verification of digital systems and I am exploring many tools that help in automation of systems
+🌱 I’m currently learning coding for RISC-V processor, verification of digital systems and I am exploring many tools that help in automation of systems
 
 💞️ I’m looking to collaborate on RISC-V projects and verification
 
@@ -50,7 +50,7 @@ I'm a VLSI enthusiast and problem solver.
 
 <div align='center'>
 
-![my Activity Graph](https://activity-graph.herokuapp.com/graph?username=ks-vanadana&theme=react-dark&hide_border=true&area=true)
+![my Activity Graph](https://activity-graph.herokuapp.com/graph?username=ks-vandana&theme=react-dark&hide_border=true&area=true)
 
 <br />
 <!-- ![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecoderash&show_icons=true&theme=github_dark) -->
