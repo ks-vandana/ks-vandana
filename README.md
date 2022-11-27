@@ -14,7 +14,7 @@ I'm a VLSI enthusiast and an ECE Student at PES University.
 
 🌱 I’m currently learning coding for RISC-V processor, verification of digital systems and I am exploring many tools that help in automation of systems
 
-💞️ I’m looking to collaborate on RISC-V projects, Verification and Work on OPEN Lane.
+💞️ I’m looking to collaborate on RISC-V projects, Verification and OpenLane projects.
 
 📚 Learning all about VLSI
 
