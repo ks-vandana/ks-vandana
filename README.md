@@ -27,10 +27,10 @@ I'm a VLSI enthusiast and an ECE Student at PES University.
 <br/>
 
 ![System Verilog](https://img.shields.io/badge/System-Verliog-%2320232a.svg?style=for-the-badge)&nbsp;&nbsp;
-![RISC-V](https://img.shields.io/badge/RISC-V-FFFFFF?style=for-the-badge)&nbsp;&nbsp;
+![RISC-V](https://img.shields.io/badge/RISC-V-A020F0?style=for-the-badge)&nbsp;&nbsp;
 ![Cadence](	https://img.shields.io/badge/Cadence-4EA94B?style=for-the-badge)&nbsp;&nbsp;
-![Vitus](https://img.shields.io/badge/Vitus-404D59?style=for-the-badge)&nbsp;&nbsp;
-![ModelSim](https://img.shields.io/badge/ModelSim-404D59?style=for-the-badge)&nbsp;&nbsp;
+![Vitus](https://img.shields.io/badge/Vitus-0000FF?style=for-the-badge)&nbsp;&nbsp;
+![ModelSim](https://img.shields.io/badge/ModelSim-FFC0CB?style=for-the-badge)&nbsp;&nbsp;
 ![Quartus](https://img.shields.io/badge/Quartus-43853D?style=for-the-badge)&nbsp;&nbsp;
 ![OpenLane](https://img.shields.io/badge/OpenLane-F7DF1E?style=for-the-badge)&nbsp;&nbsp;
 ![Spike](	https://img.shields.io/badge/Spike-39457E?style=for-the-badge)&nbsp;&nbsp;
