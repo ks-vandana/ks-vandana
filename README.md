@@ -18,7 +18,7 @@ I'm a VLSI enthusiast and an ECE Student at PES University.
 
 📚 Learning all about VLSI
 
-📫 Reach me at vandanaks1405@gmai.com
+📫 Reach me at vandanaks1405@gmail.com
 
 <br />
 
@@ -29,7 +29,7 @@ I'm a VLSI enthusiast and an ECE Student at PES University.
 ![System Verilog](https://img.shields.io/badge/System-Verliog-%2320232a.svg?style=for-the-badge)&nbsp;&nbsp;
 ![RISC-V](https://img.shields.io/badge/RISC-V-A020F0?style=for-the-badge)&nbsp;&nbsp;
 ![Cadence](	https://img.shields.io/badge/Cadence-4EA94B?style=for-the-badge)&nbsp;&nbsp;
-![Vitus](https://img.shields.io/badge/Vitus-0000FF?style=for-the-badge)&nbsp;&nbsp;
+![Vitis](https://img.shields.io/badge/Vitus-0000FF?style=for-the-badge)&nbsp;&nbsp;
 ![ModelSim](https://img.shields.io/badge/ModelSim-FFC0CB?style=for-the-badge)&nbsp;&nbsp;
 ![Quartus](https://img.shields.io/badge/Quartus-43853D?style=for-the-badge)&nbsp;&nbsp;
 ![OpenLane](https://img.shields.io/badge/OpenLane-F7DF1E?style=for-the-badge)&nbsp;&nbsp;
